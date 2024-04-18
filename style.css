@@ -1,0 +1,21 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #1f2937;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+    list-style-type: none;
+}
+
+#logo{
+    max-width: 200px;
+    height: auto;
+}
