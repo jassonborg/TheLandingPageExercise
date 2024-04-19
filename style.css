@@ -50,6 +50,17 @@ a{
     font-size: 18px;
     color: #f9faf8;
 }
+
+button{
+    font-weight: bold;
+    background: royalblue;
+    border: 1px solid royalblue;
+    color: white;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
 .topimage{
     max-width: 400px;
     height: auto;
