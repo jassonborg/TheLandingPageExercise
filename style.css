@@ -6,6 +6,7 @@ body{
 
 header{
     background-color: #1f2937;
+    height: 450px;
 }
 
 a {
@@ -19,7 +20,12 @@ li {
     list-style-type: none;
 }
 
-#logo{
+.logo{
     max-width: 200px;
+    height: auto;
+}
+
+.topimage{
+    max-width: 400px;
     height: auto;
 }
