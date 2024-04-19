@@ -2,6 +2,8 @@ body{
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
@@ -9,20 +11,24 @@ header{
     height: 450px;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-    outline: none;
-}
-
-li {
-    color: white;
-    list-style-type: none;
+.header-container{
+    display: flex;
 }
 
 .logo{
     max-width: 200px;
     height: auto;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    outline: none;
+    
 }
 
 .topimage{
