@@ -9,10 +9,15 @@ body{
 header{
     background-color: #1f2937;
     height: 450px;
+    padding: 1em;
+    padding-left: 5em;
+    padding-right: 5em;
+
 }
 
 .header-container{
     display: flex;
+    justify-content: space-between;
 }
 
 .logo{
@@ -22,13 +27,14 @@ header{
 
 ul{
     list-style-type: none;
+    display: flex;
+    gap: 1em;
 }
 
 a{
     color: white;
     text-decoration: none;
     outline: none;
-    
 }
 
 .topimage{
