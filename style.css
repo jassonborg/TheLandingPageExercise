@@ -21,6 +21,7 @@ header{
 .header-container{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 3em;
 }
 
 .logo{
@@ -40,15 +41,22 @@ a{
     outline: none;
 }
 
+.header-content-container{
+    display: flex;
+    
+}
+
 .header-content-title{
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+    margin-bottom: 10px;
 }
 
 .header-content-desc{
     font-size: 18px;
     color: #f9faf8;
+    margin-bottom: 10px;
 }
 
 button{
