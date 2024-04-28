@@ -58,7 +58,7 @@ a{
     margin-bottom: 10px;
 }
 
-button{
+.header-content-button {
     font-weight: bold;
     background: royalblue;
     border: 1px solid royalblue;
@@ -124,6 +124,43 @@ button{
     font-weight: bolder;
     display: flex;
     justify-content: flex-end;
+}
+
+.signup-container{
+    background-color: #3882F6;
+    margin: 4em;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-text{
+    color: white;
+    margin: 2em;
+}
+
+.signup-text h2{
+    font-weight: bolder;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.signup-text p{
+    margin-top: 0;
+}
+
+.signup-button{
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    background: royalblue;
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin: 2em;
 }
 
 footer{
