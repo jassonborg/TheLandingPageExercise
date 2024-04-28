@@ -163,6 +163,15 @@ a{
     margin: 2em;
 }
 
-footer{
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: auto;
     background-color: #1f2937
+}
+
+.footer p{
+    color: white;
 }
