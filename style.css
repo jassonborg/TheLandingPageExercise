@@ -12,8 +12,8 @@ body{
 .header-section{
     background-color: #1f2937;
     padding: 1em;
-    padding-left: 5em;
-    padding-right: 5em;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .header-container{
