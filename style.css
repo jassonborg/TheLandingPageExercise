@@ -9,13 +9,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-header{
+.header-section{
     background-color: #1f2937;
-    height: 450px;
     padding: 1em;
     padding-left: 5em;
     padding-right: 5em;
-
 }
 
 .header-container{
@@ -39,6 +37,11 @@ a{
     color: white;
     text-decoration: none;
     outline: none;
+}
+
+.header-content{
+    margin: 2em;
+    margin-bottom: 5em;
 }
 
 .header-content-container{
