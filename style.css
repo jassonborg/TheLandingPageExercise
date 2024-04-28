@@ -23,7 +23,7 @@ body{
 }
 
 .logo{
-    max-width: 200px;
+    width: 30%;
     height: auto;
 }
 
@@ -72,7 +72,7 @@ a{
 }
 
 .topimage{
-    max-width: 400px;
+    width: 100%;
     height: auto;
 }
 
