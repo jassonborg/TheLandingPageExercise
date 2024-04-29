@@ -76,7 +76,8 @@ a{
     max-height: 100%;
     width: 1500px;
     height: auto;
-    margin: 2em;
+    margin-top: 2em;
+    
 }
 
 .info-header{
